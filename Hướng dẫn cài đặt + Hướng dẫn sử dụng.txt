@@ -1,0 +1,62 @@
+================Hướng dẫn cài đặt===================
+1. Sử dụng Visual Studio.
+2. Tạo project mới, tạo các class và copy code vào.
+3. Sử dụng consle app (.NET framework).
+4. Copy các file danh_sach_san_pham.txt, danh_sach_khach_hang.txt, danh_sach_hoa_don.txt 
+vào file debug trong file bin của project để khi chạy, chương trình có dữ liệu để đọc. 
+
+
+
+
+================Hướng dẫn sử dụng===================
+1. Bấm ctrl+f5 hoặc f5 để chạy chương trình
+2. Chạy chương trình:
+	I. Danh Sách Menu Chính
+		Danh sách sản phẩm:
+			Chọn 1 từ menu chính.
+			Hiển thị menu danh sách các sản phẩm.
+		Danh sách khách hàng:
+			Chọn 2 từ menu chính.
+			Hiển thị menu danh sách khách hàng.
+		Danh sách hóa đơn:
+			Chọn 3 từ menu chính.
+			Hiển thị menu danh sách hóa đơn.
+		Thống kê doanh số:
+			Chọn 4 từ menu chính.
+			Hiển thị menu thống kê doanh số
+		Thoát:
+			Chọn 0 để thoát khỏi chương trình.
+	II. Danh Sách Sản Phẩm
+		Nhập danh sách sản phẩm:
+			Chọn 1 từ menu danh sách sản phẩm.
+			Nhập thông tin cho từng sản phẩm.(nhập 1 loạt danh sách sản phẩm)
+		Xuất danh sách sản phẩm:
+			Chọn 2 từ menu danh sách sản phẩm.
+			Hiển thị danh sách sản phẩm.
+		Thêm sản phẩm:
+			Chọn 3 từ menu danh sách sản phẩm.
+			Nhập thông tin cho sản phẩm mới.(chỉ thêm 1 sản phẩm)
+		Xóa sản phẩm:
+			Chọn 4 từ menu danh sách sản phẩm.
+			Chọn sản phẩm cần xóa theo mã sản phẩm.
+		Sửa sản phẩm:
+			Chọn 5 từ menu danh sách sản phẩm.
+			Chọn sản phẩm cần sửa theo mã sản phẩm và nhập thông tin mới.
+		Tìm kiếm sản phẩm:
+			Chọn 6 từ menu danh sách sản phẩm.
+			Nhập mã sản phẩm cần tìm kiếm.
+		Thoát:
+			Chọn 0 để quay lại menu chính.
+	III. Danh Sách Khách Hàng và Hóa Đơn
+		Tương tự như danh sách sản phẩm, bạn có thể thực hiện các chức năng nhập, xuất, thêm, xóa, sửa và tìm kiếm 
+		cho danh sách khách hàng và danh sách hóa đơn.
+	IV. Thống Kê Doanh Số
+		Sản phẩm bán nhiều nhất:
+			Chọn 1 từ menu thống kê doanh số.
+		Sản phẩm bán ít nhất:
+			Chọn 2 từ menu thống kê doanh số.
+		Tổng tiền bán được từ ngày... đến ngày...:
+			Chọn 3 từ menu thống kê doanh số.
+			Nhập khoảng thời gian cần thống kê.
+		Thoát:
+			Chọn 0 để quay lại menu chính.

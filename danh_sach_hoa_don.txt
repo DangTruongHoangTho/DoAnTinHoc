@@ -1,0 +1,72 @@
+Danh sach hoa don:
+Hoa don thu 1
+Ma Hoa Don: 01
+Ngay Tao: 05/12/2023 7:32:51 PM
+Ma KH: 03
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+001	10000	2
+Hoa don thu 2
+Ma Hoa Don: 02
+Ngay Tao: 05/12/2023 7:33:31 PM
+Ma KH: 03
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+010	135000	5
+Hoa don thu 3
+Ma Hoa Don: 03
+Ngay Tao: 05/12/2023 7:50:08 PM
+Ma KH: 02
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+009	25000	1
+010	135000	2
+Hoa don thu 4
+Ma Hoa Don: 04
+Ngay Tao: 07/12/2023 10:39:02 AM
+Ma KH: 01
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+002	35000	1
+Hoa don thu 5
+Ma Hoa Don: 05
+Ngay Tao: 08/12/2023 5:27:14 PM
+Ma KH: 04
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+009	25000	10
+Hoa don thu 6
+Ma Hoa Don: 06
+Ngay Tao: 08/12/2023 5:29:42 PM
+Ma KH: 03
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+010	135000	3
+Hoa don thu 7
+Ma Hoa Don: 07
+Ngay Tao: 08/12/2023 5:35:12 PM
+Ma KH: 01
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+002	35000	1
+Hoa don thu 8
+Ma Hoa Don: 08
+Ngay Tao: 08/12/2023 5:47:00 PM
+Ma KH: 02
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+008	40000	3
+Hoa don thu 9
+Ma Hoa Don: 09
+Ngay Tao: 08/12/2023 5:53:17 PM
+Ma KH: 05
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+004	175000	1
+Hoa don thu 10
+Ma Hoa Don: 010
+Ngay Tao: 10/12/2023 1:18:22 PM
+Ma KH: 05
+Danh sach san pham trong hoa don:
+Ma SP	Gia	So luong
+003	50000	20

@@ -1,0 +1,6 @@
+Khach hang thu	Ma KH	Ten khach hang	So dien thoai	Gioi tinh
+1		  01	     Nguyen Van A	         0901234567	   Nam
+2		  02	     Tran Thi B	         0781234567	   Nu
+3		  03	     Nguyen Pham Anh K	         0907654321	   Nam
+4		  04	     Dang Thanh Q	         0795671234	   Nam
+5		  05	     Truong Van T	         0909999123	   Nam

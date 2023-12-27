@@ -1,0 +1,12 @@
+San pham thu	Ma SP	Ten san pham	Gia	So luong	Phan loai
+1		  001	     Xuong cho cho gam	         10000	   100	           Cho
+2		  002	     Pate cho cho	         35000	   100	           Cho
+3		  003	     Xuong canxi cho cho	         50000	   280	           Cho
+4		  004	     Thuc an cho cho Poodle	         175000	   100	           Cho
+5		  005	     Pate cho cho vi thit bo	         25000	   88	           Cho
+6		  006	     Pate cho meo vi ca ngu	         30000	   100	           Meo
+7		  007	     Pate cho meo vi sot gan	         30000	   100	           Meo
+8		  008	     Sup thuong cho meo vi thit ga	         40000	   100	           Meo
+9		  009	     Pate cho meo vi sot ca bien	         25000	   100	           Meo
+10		  010	     Thuc an cho meo duong dep long	         135000	   100	           Meo
+11		  011	     Xuong gam cho cho	         12000	40	           Cho
